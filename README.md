@@ -54,12 +54,12 @@ In this case:
 > The ROC Curve shows the model's ability to distinguish between malignant and benign tumors at various thresholds.
 ### ✅ AUC = 0.995 → Nearly perfect separation between classes.
 
-![ROC Curve](./assets/pic1.png)
+![ROC Curve](task4/assets/pic1.png)
 
 - **X-axis:** False Positive Rate
 - **Y-axis:** True Positive Rate
 - The curve close to the top-left corner = better model.
 ## 📊 Model Results (Threshold = 0.5) and threshold:0.6
-    ![Terminal Output](./assets/pic2.png)
+    ![Terminal Output](task4/assets/pic2.png)
     
 
